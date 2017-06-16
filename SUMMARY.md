@@ -28,10 +28,11 @@
     * [控制参数设置](view-local/user-interaction/controlsparameter.md)
     * [设备详情](view-local/user-interaction/facilitydetailmodal.md)
   * [操作记录](view-local/operatingrecord.md)
-* [Lab-Local软件使用](lab_local.md)
+* [factory软件使用](lab_local.md)
   * [点表管理](lab_local.md)
   * [绘制界面](lab_local.md)
   * [导入模版](lab_local.md)
   * [控制逻辑配置](logic/logic.md)
 * [View-Cloud软件使用](view_cloud.md)
 * [Lab-Cloud软件使用](lab_cloud.md)
+
