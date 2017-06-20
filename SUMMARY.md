@@ -30,10 +30,10 @@
   * [操作记录](view-local/operatingrecord.md)
 * [factory软件使用](factory/basic.md)
   * [点表管理](factory/point_manage.md)
-  * [绘制界面](factory/page_draw.md)
+  * [绘制界面](factory/flow.md)
   * [导入模版](factory/sample_file_damage.md)
   * [控制逻辑配置](factory/debug_tool.md)
-  * [水流配置](factory/flow.md)
+  * [水流配置](factory/page_draw.md)
 * [View-Cloud软件使用](view_cloud.md)
 * [Lab-Cloud软件使用](lab_cloud.md)
 
