@@ -34,6 +34,7 @@
   * [导入模版](factory/sample_file_damage.md)
   * [BEOP调试工具](factory/debug_tool.md)
   * [水流配置](factory/page_draw.md)
+  * [导入页面](factory/page_import.md)
 * [View-Cloud软件使用](view_cloud.md)
 * [Lab-Cloud软件使用](lab_cloud.md)
 
