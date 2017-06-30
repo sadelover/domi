@@ -11,7 +11,7 @@
   * [使用DTU设置数据远传](corebox_dtu.md)
   * [设置core FTP服务器](corebox_ftp_server.md)
   * [安装TeamViewer](corebox_teamviewer.md)
-  * 下载软件
+  * [下载软件](xia-zai-ruan-jian.md)
 * [工作站电脑安装准备](observer.md)
   * [View-Local软件安装和配置](View_local.md)
   * [打开项目文件，连接到core进行调试](View_local.md)
