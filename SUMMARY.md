@@ -7,10 +7,10 @@
   * [安装MySQL数据库](corebox_mysqlsetup.md)
   * [安装MySQL辅助管理软件和查询软件](corebox_mysqlsetup/an-zhuang-mysql-fu-zhu-guan-li-ruan-jian-he-cha-xun-ruan-jian.md)
   * [安装core核心程序](corebox_core_exe.md)
+  * [使用就地网络设置数据远传](shi-yong-jiu-di-wang-luo-she-zhi-shu-ju-yuan-chuan.md)
   * [使用DTU设置数据远传](corebox_dtu.md)
   * [设置core FTP服务器](corebox_ftp_server.md)
   * [安装TeamViewer](corebox_teamviewer.md)
-  * [使用就地网络设置数据远传](shi-yong-jiu-di-wang-luo-she-zhi-shu-ju-yuan-chuan.md)
   * 下载软件
 * [工作站电脑安装准备](observer.md)
   * [View-Local软件安装和配置](View_local.md)
