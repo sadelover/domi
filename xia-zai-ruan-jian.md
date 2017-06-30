@@ -22,3 +22,5 @@
 
 3、进入FTP，选择文件夹/domi\_release/soft\_release/core\_server\_package，下载所有软件安装包。（注意：下载到磁盘空间比较大的盘内）
 
+建议下载至D:/domi/setup。
+
