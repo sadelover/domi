@@ -3,7 +3,9 @@
 * Gatewaycore  下载地址: [core.rar](http://beop.rnbtech.com.hk/static/help/BEOPGatewayCore_2015_12_18.rar)，本软件为绿色软件，下载后可任意位置放置，建议统一在d:\core目录下，解压即可。
 * 将GatewayCore.exe加入系统的启动项中，在开始菜单中在启动上右键-打开，创建快捷方式到Gatewaycore.exe
 
-第一次安装时，.ini里 dbbuild=0
+从FTP上下载，经过解压后直接安装。
+
+第一次安装时，打开beopgateway，将里面的dbbuild改为dbbuild=0。
 
 # 启动引擎
 

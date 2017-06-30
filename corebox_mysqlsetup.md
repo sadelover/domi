@@ -4,7 +4,7 @@
 
 * MySQL官方下载地址：[MySQL官方下载地址](http://downloads.mysql.com/archives/community/)\)
 
-建议下载 mysql-essential-5.1.40-win32.exe
+建议下载 mysql-essential-5.1.40-win32.exe （在FTP内下载可不考虑）
 
 安装采用默认选项，不断Next，注意在配置Instance时需要将端口加入到防火墙意外中，如下图：
 
