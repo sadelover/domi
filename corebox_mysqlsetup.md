@@ -1,6 +1,6 @@
 # MySQL数据库安装
 
-安装mysql community server 5.1.60 windows版本（32或64位均支持\)，安装过程中设置字符集为utf8，root账户密码为调试密码（该密码需向公司询问），安装目录可采用默认方式。
+安装mysql community server 5.1.60 windows版本（32或64位均支持\)，安装过程中设置字符集为utf8，root账户密码为调试密码（该密码需向公司询问），安装至磁盘空间较大的盘内（如D盘）。
 
 * MySQL官方下载地址：[MySQL官方下载地址](http://downloads.mysql.com/archives/community/)\)
 
