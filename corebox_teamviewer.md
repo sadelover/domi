@@ -4,3 +4,5 @@
 
 绑定到项目账号，Teamviewer 帐号密码请向产品经理索取。
 
+![](/assets/Team Viewer.png)
+
